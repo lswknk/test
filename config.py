@@ -21,3 +21,6 @@ def get_config_values(section, option):
 	
 def getfirst():
 	pass
+
+def getsecond45():
+	pass
