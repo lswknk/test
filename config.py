@@ -17,3 +17,7 @@ def get_config_values(section, option):
     config.read(configFilePath)
     # return config.items(section=section)
     return config.get(section=section, option=option)
+	
+	
+def getfirst():
+	pass
